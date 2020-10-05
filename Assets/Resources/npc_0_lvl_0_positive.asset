@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b0c5b0c26870c4db21613edc37c741, type: 3}
+  m_Name: npc_0_lvl_0_positive
+  m_EditorClassIdentifier: 
+  screenPosition: 1
+  lines:
+  - "You look at your own table and see a mess. You're almost sure your keyboard
+    is under there somewhere.\r"
+  - "Looking at the pile of garbage you call your desk, you realize you feel just
+    like that:\r"
+  - "trash...\r"
+  - "Your life is a mess and consists basically of pilled up work.\r"
+  - "When did things go south?\r"
+  - "You wonder about how you ended up in an office, doing something that displeases
+    you so much.\r"
+  - "While you're at it, you decide to tidy your desk.\r"
+  - When you finish, it looks much better. You breathe deeply, feeling a little less
+    lost.

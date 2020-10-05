@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b0c5b0c26870c4db21613edc37c741, type: 3}
+  m_Name: npc_0_lvl_2_negative
+  m_EditorClassIdentifier: 
+  screenPosition: 1
+  lines:
+  - "You look at the monthly report on the wall.\r"
+  - "A paper where the boss rates everyone's work.\r"
+  - "You look at the top workers.\r"
+  - "Strangely, the boss is top 1 while Karen and Jack are down on the list.\r"
+  - "You look for your name and you see yourself on the last positions of the list.\r"
+  - "You remember all the after-hours you worked...\r"
+  - "All the nights spent without sleeping...\r"
+  - "Even so, your work is not good enough.\r"
+  - "You turn your back to the report and walk to your table feeling like crap.\r"
+  - "Why is it that your work is not good? \r"
+  - "Why are you no good?\r"
+  - Could it be a problem with the report...or you...

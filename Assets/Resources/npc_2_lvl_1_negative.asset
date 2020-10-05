@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b0c5b0c26870c4db21613edc37c741, type: 3}
+  m_Name: npc_2_lvl_1_negative
+  m_EditorClassIdentifier: 
+  screenPosition: 1
+  lines:
+  - "That's it. Today is the day you will get a raise. \r"
+  - "You approach your boss casually and think: Maybe being friendly might get on
+    his good side.\r"
+  - "You: Hey boss, how are you feeling? Want me to get a coffee for you?\r"
+  - "BOSS: YEAH, GO GET IT FOR ME. THEN FILL THESE PAPERS HERE, I WANT THEM DONE
+    TODAY.\r"
+  - "You: Of course, I will make the best coffee ever made. And don't worry! They
+    will be done soon.\r"
+  - "As you walk away, you wonder how the boss will drink his coffee with that mask
+    and without taking his hands off his tricycle. \r"
+  - You fulfill all your tasks, patiently waits for the day you will get a good raise
+    to make worth all those tiring boss' errands.

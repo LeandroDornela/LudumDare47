@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b0c5b0c26870c4db21613edc37c741, type: 3}
+  m_Name: npc_1_lvl_1_positive
+  m_EditorClassIdentifier: 
+  screenPosition: 1
+  lines:
+  - "You slowly, but confidently, move closer to Karen. Her neck is the most beautiful
+    neck you've ever seen, as you approach her from behind. \r"
+  - "It's outrageous how a neck can be so erotic. \r"
+  - "You lean towards her as you try to think of a clever pick-up line... \r"
+  - "You: Do you know the difference between a Portuguese and a banana?\r"
+  - "Karen: Wow! You surprised me approaching like... The difference between what?\r"
+  - "She laughs.\r"
+  - "You: A P-Portuguese and a banana...\r"
+  - 'Karen: I can think of a bunch of things, but let''s go with your answer.
+
+'
+  - "She whispers looking at you with giggling eyes.\r"
+  - "Your mind goes completely blank and you forget what you were going to say...\r"
+  - "You: I haven't the faintest idea! Kiss me!\r"
+  - "Karen: Hahaha That was unexpected!\r"
+  - "You stand straight again with your face burning red. As you move away from Karen's
+    desk you feel her hand on yours.\r"
+  - "You look back and see her looking at you while she moves her lips without a
+    sound.\r"
+  - "Karen: After work... \r"
+  - "She winks and bits her lips as she lets go of your hand.\r"
+  - "You feel like your heart is going to burst from your chest!\r"
+  - You try to walk away normally but the blood rushing to different pasrts of your
+    body prevents you from it.

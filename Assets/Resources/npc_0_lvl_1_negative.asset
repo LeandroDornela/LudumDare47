@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b0c5b0c26870c4db21613edc37c741, type: 3}
+  m_Name: npc_0_lvl_1_negative
+  m_EditorClassIdentifier: 
+  screenPosition: 1
+  lines:
+  - "Work is dull as always. Your body feels ok, but your mind is drained.\r"
+  - "It's like you've been working since forever nonstop.\r"
+  - "You sit on your chair for a little while and browse through the social media
+    to try and relax.\r"
+  - "You see the most recent pictures of your boss on a paradisiac island...\r"
+  - "You see jack with his wife and kids...\r"
+  - "Everyone seems happy.\r"
+  - "You look for your own photos on your phone, but here are none.\r"
+  - "You see there is a new filter for photos that put on a beach with a drink in
+    your hand.\r"
+  - "You test the filter and it turns out very realistic.\r"
+  - "You post the photo and put your phone away.\r"
+  - "You feel like crying...\r"
+  - ...

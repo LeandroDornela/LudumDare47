@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b0c5b0c26870c4db21613edc37c741, type: 3}
+  m_Name: npc_1_lvl_2_positive
+  m_EditorClassIdentifier: 
+  screenPosition: 1
+  lines:
+  - "You go to the warehouse moving heavy boxes of paper your boss asked you to.\r"
+  - "You put them down, and look at the huge pile you built. \r"
+  - "You: It's like a f****** wall!\r"
+  - "You: ....a....wall...\r"
+  - "You quickly grab your phone and text Karen. You take a picture of the pilled
+    boxes and send her.\r"
+  - "You: I just built a wall at the warehouse lol. Wanna help me test how strong
+    it is? **tongue emoji** **thunder emoji**\r"
+  - "As soon as your message goes through, you can see that Karen is typing an answer.\r"
+  - "Every second you wait seems like an eternity.\r"
+  - "Karen: I'm there, hotshot! **peach emoji** **water drops emoji**\r"
+  - "Karen arrives almost at the same time as your message.\r"
+  - "She grabs you by the neck and throws you against the boxes. \r"
+  - "As she moves, you become louder and she shoves some paper inside your mouth.\r"
+  - "In the midst of that storm, you can only think:\r"
+  - '"I wish every part of my life was as good as this!"'

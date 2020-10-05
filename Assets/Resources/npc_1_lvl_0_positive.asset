@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b0c5b0c26870c4db21613edc37c741, type: 3}
+  m_Name: npc_1_lvl_0_positive
+  m_EditorClassIdentifier: 
+  screenPosition: 1
+  lines:
+  - "You approach her slowly, grasping your hands in front of you as they sweat...\r"
+  - "You: G-good morn...\r"
+  - "Karen: Hey there, cutie! \r"
+  - "Karen: You don't look too well today. Cheer up, okay? Things are bound to improve.
+    \r"
+  - "Karen: I mean, how worse can it get?! **giggle**\r"
+  - "You can't help but smile.\r"
+  - "She's pretty! And she called you \"cutie\"!!\r"
+  - Feels like life can have some good stuff after all.

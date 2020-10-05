@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b0c5b0c26870c4db21613edc37c741, type: 3}
+  m_Name: npc_0_lvl_1_positive
+  m_EditorClassIdentifier: 
+  screenPosition: 1
+  lines:
+  - "You approach Jack that seems very stressed already from being back at work.\r"
+  - "You: Oh... Hey Jack. Sorry to disturb you...\r"
+  - "He looks away from his monitor, surprised by seeing you there.\r"
+  - "He smiles.\r"
+  - "Jack: Hey buddy! Thanks for taking my mind off work. What's going on?\r"
+  - "You: I wanted to thank you for the souvenir. It's great. Really. Thank you.\r"
+  - "Jack: Hahah no worries, man. We're good. What did you wish for, by the way?\r"
+  - "You: Well...\r"
+  - "You stutter, feeling a little ashamed of your wish.\r"
+  - "You: ... I wished for this to be my last day on this torment...\r"
+  - "You shrug your shoulders, feeling a little stupid saying it out loud.\r"
+  - "Jack looks at you perplexed.\r"
+  - "Jack: Hahah me too, brother! Me too!\r"
+  - "Seeing Jack laugh takes a weight off your chest.\r"
+  - "Jack: But you know? It's your power to do that. Aim towards your happiness,
+    man!\r"
+  - "You're surprised by Jack's words. You never imagined he would think like that.\r"
+  - "He IS a friend after all, so that does make sense.\r"
+  - "You: Thanks, Jack! I needed to hear that.\r"
+  - "He laughs and gives you a thumbs up.\r"
+  - "Jack: You got it! But you know, it's all you, brother. Find yourself inside
+    there and go for it!\r"
+  - You leave, wondering about what "finding yourself" means...

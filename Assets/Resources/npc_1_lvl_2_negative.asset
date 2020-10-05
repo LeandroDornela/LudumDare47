@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b0c5b0c26870c4db21613edc37c741, type: 3}
+  m_Name: npc_1_lvl_2_negative
+  m_EditorClassIdentifier: 
+  screenPosition: 1
+  lines:
+  - "You look at her from afar and you think of all the days spent inside that office,
+    looking at her from the corner. \r"
+  - "You try to remember her last name, but you realize you've never known it. \r"
+  - "You try to remember where she leaves. \r"
+  - "But that you also never knew.\r"
+  - "To be honest with yourself, you don't know much about her besides her stunning
+    looks.\r"
+  - "But you're passionate about her! Thinking about her every day! \r"
+  - "Her lips, her legs... \r"
+  - "You can't wait to hold her.\r"
+  - "Before you can think of what you're doing, you climb on your desk, kicking papers
+    and pens to the floor.\r"
+  - "You NEED to marry her!!\r"
+  - "You: KAREN! I LOVE YOU! PLEASE MARRY ME!\r"
+  - "As you stop yelling, breathing fast, the most absolutely silence descends on
+    the office.\r"
+  - "Everyone looks at you, mesmerized.\r"
+  - "Karen looks straight at you.\r"
+  - "No expression on her face.\r"
+  - "She reaches her hand to the side and the next thing you see is a huge paper
+    ball hitting you in the face like a stone.\r"
+  - "You fall back on the floor and the air is pumped out of your lungs.\r"
+  - "As you struggle like a turtle who fell on its back, trying to breathe, you see
+    Karen approach.\r"
+  - "Her face is glowing red with shyness.\r"
+  - "Karen: What do you think you're doing?! We barely know each other! That's not
+    funny!\r"
+  - She walks away and you're left there, looking at the ceiling...

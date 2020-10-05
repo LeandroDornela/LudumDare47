@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b0c5b0c26870c4db21613edc37c741, type: 3}
+  m_Name: npc_2_lvl_2_negative
+  m_EditorClassIdentifier: 
+  screenPosition: 1
+  lines:
+  - "You enter the warehouse and see that it's a mess. \r"
+  - "You wonder how anyone can work in a place like that.\r"
+  - "Looking among the piles of boxes you see a bedroll, a tv, a camping stove, and
+    some lights.\r"
+  - "It looks like someone is also living in that mess!\r"
+  - "Since your boss is always complaining you feel like you should clean that up.
+    \r"
+  - "Maybe that will show him how valuable you are and raise your salary!\r"
+  - "You spend hours on the task.\r"
+  - "The result is: papercuts, backpain, sweaty clothes, and your boss complaining
+    about how you didn't do your job.\r"
+  - That's what you get for thinking that douche would value your work...

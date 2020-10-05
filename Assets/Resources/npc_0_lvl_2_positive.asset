@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b0c5b0c26870c4db21613edc37c741, type: 3}
+  m_Name: npc_0_lvl_2_positive
+  m_EditorClassIdentifier: 
+  screenPosition: 1
+  lines:
+  - "You look at the window and see a thick layer of dust on the glass.\r"
+  - "Looking closely, it's disgusting.\r"
+  - "You grab some paper towels and glass cleaner.\r"
+  - "As you clean the window's glass, you start to see the blue of the sky, and some
+    rays of light from the sun start coming inside the office.\r"
+  - "You look at the park down the street and you feel almost like you can hear the
+    birds and feel the breeze.\r"
+  - "You're taken back into your adolescent years, when you spent your time hiking
+    in wild places.\r"
+  - "It's almost like that happiness can carry you out of that window and towards
+    the sky.\r"
+  - "You open your eyes and you're back at the office.\r"
+  - "The smell of papers and cigarette fill your nose, weighing you down.\r"
+  - "That's not the life you want...\r"
+  - You go back to your desk and start looking for travel packages.

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b0c5b0c26870c4db21613edc37c741, type: 3}
+  m_Name: last_dialog
+  m_EditorClassIdentifier: 
+  screenPosition: 1
+  lines:
+  - "You stop for a moment as your brain seems to burst all of a sudden.\r"
+  - "The epiphany hits you like a train and you halt where you stand.\r"
+  - "You look at the clock, expecting the day to go back to the beginning of your
+    sift again.\r"
+  - "Somehow you know deep down it won't.\r"
+  - "As you wonder why, you start answering your own question.\r"
+  - "Your torment is over...\r"
+  - "Not having relations with the people you worked with is over...\r"
+  - "Cowardice is over...\r"
+  - "Bringing yourself down is over...\r"
+  - "You realize you're starting to like yourself.\r"
+  - 'That you couldn''t care less about the shitty boss of the company. He''s not
+    YOUR boss!
+
+'
+  - "You remember you once had dreams and the will to run after them again starts
+    to grow inside you.\r"
+  - "To hell with this job and this torment! You're going to search for your happiness.\r"
+  - As you show the finger to your boss, you walk out the door at the end of the
+    shift. Never to go back.
+  - "You invite Karen and jack to go to the first happy hour of the rest of your
+    life!\r"
+  - Enjoy!

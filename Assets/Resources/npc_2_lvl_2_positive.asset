@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b0c5b0c26870c4db21613edc37c741, type: 3}
+  m_Name: npc_2_lvl_2_positive
+  m_EditorClassIdentifier: 
+  screenPosition: 1
+  lines:
+  - "As you enter the boss room once again, you notice in the trash bin an expensive
+    bottle of wine. \r"
+  - "But what makes you wonder is that it is almost full. \r"
+  - "The boss probably took a sip, then threw it right away.\r"
+  - "Could he be more egotistic?\r"
+  - "BOSS: WHAT? CAME TO VISIT YOUR MOTHER?\r"
+  - 'That is the last straw, no one talks about your mother, right? '
+  - "The wish to get a raise soon flew off your mind as your anger became more apparent.\r"
+  - 'You: You better think about what you just said. '
+  - "BOSS: AND YOU BETTER THINK ABOUT WHO YOU'RE TALKING TO.\r"
+  - "I CAN SEND YOU HOME RIGHT NOW.\r"
+  - "You: If it was true, you wouldn't even say this. \r"
+  - "You feel the blood running through your body.\r"
+  - "You: You need me here and you know that, because there's no one crazy enough
+    to go through all these tasks without going home crying.\r"
+  - "BOSS: I CAN FIND PEOPLE WAY MORE COMPETENT.\r"
+  - "You: Hope you can, big guy. Good luck with your game. It's getting boring doing
+    this.\r"
+  - You leave the room with your mind free, in high hopes he finds someone to substitute
+    you one day.

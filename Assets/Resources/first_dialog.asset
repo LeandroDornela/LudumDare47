@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b0c5b0c26870c4db21613edc37c741, type: 3}
+  m_Name: first_dialog
+  m_EditorClassIdentifier: 
+  screenPosition: 1
+  lines:
+  - "Jack: Hey Joe, are you there?\r"
+  - "You shake your head to unwind.\r"
+  - "You feel like you were sleeping and dreaming.\r"
+  - "But you can't remember what.\r"
+  - "You: Sorry, Jack.\r"
+  - "Jack: Hunf and to think I brought you that rare indigenous god figure as a souvenir.\r"
+  - "You: I'm really sorry, Jack. I must've been very tired...\r"
+  - "Jack: Yeah, yeah. Just don't forget to make a wish to that figure. They say
+    it grants them.\r"
+  - "Jack: Maybe you can ask for a good sleep tonight...\r"
+  - "Jack moves away from your desk and leave you feeling guilty and tired.\r"
+  - "You hold the small figure in your hands as you look around the office.\r"
+  - You wish for this to be your last day in such a torment...

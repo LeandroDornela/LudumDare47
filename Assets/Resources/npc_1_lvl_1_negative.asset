@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b0c5b0c26870c4db21613edc37c741, type: 3}
+  m_Name: npc_1_lvl_1_negative
+  m_EditorClassIdentifier: 
+  screenPosition: 1
+  lines:
+  - "You see a huge paper ball inside the bin. Someone must've made it as a joke.
+    \r"
+  - "You pick it up quickly before anyone sees it. It's heavy. Like there a stapler
+    inside it. \r"
+  - "You smile as you throw it on Karen's head. The paper ball falls like a brick
+    and the sound draws everyone's attention. \r"
+  - "You hear Karen's inflection of pain. \r"
+  - "She turns to you. Her face turned into a mask of fury. \r"
+  - "You: S-sorry! I expected it to bounce!\r"
+  - "You try to apologize but you can't find anything non-idiotic to say...\r"
+  - 'Crush: Next time, throw your mother, and let''s see if she bounces!'
